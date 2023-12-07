@@ -1,5 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
 
+  <details> <!-- details open -->
+    <summary></summary>
+    <img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile">
+  </details>
+</div>
 <!--
 **Gabixel/Gabixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
