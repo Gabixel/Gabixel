@@ -4,7 +4,7 @@
 
   <details> <!-- details open -->
     <summary></summary>
-    <img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile">
+    <a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a>
   </details>
 </div>
 <!--
