@@ -2,6 +2,8 @@
   <h1>Hi there 👋</h1>
   <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
 
+  <p>Check out my <a href="https://github.com/Gabixel/Soundboard">Soundboard project</a>! (+ <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">roadmap</a>)</p>
+  
   <details> <!-- details open -->
     <summary></summary>
     <a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>
