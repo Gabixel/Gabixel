@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
   <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
 
-  <p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)!</p>
+  <p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>
 
   <details>
     <summary><h3>🧩 My personality (<code>INFJ 4w5</code>)</h3></summary>
