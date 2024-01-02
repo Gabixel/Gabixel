@@ -2,6 +2,8 @@
   <h2>Hi there 👋</h2>
   <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
 
+  <a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>
+  
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
   <details>
@@ -12,12 +14,12 @@
     </blockquote>
   </details>
   
-  <details> <!-- TODO -->
-    <summary><h3>…</h3></summary>
-    <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
-    <a href="https://steamcommunity.com/id/Gabixel" target="_blank">Steam profile</a><br/><br/>
-    <a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>
-  </details>
+  <!-- TODO -->
+  <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
+  <a href="https://osu.ppy.sh/users/8543042" target="_blank">My <code>osu!</code> profile</a><br/>
+  <a href="https://steamcommunity.com/id/Gabixel" target="_blank">My <code>Steam</code> community profile</a><br/>
+  <br/>
+  <p><i><sub>Profile picture author: Maki (<a href="https://twitter.com/Makisatelier" target="_blank">twitter</a>, <a href="https://www.artstation.com/fuenzalida" target="_blank">artstation</a>)</sub></i></p>
 </div>
 <!--
 **Gabixel/Gabixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
