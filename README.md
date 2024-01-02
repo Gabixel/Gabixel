@@ -14,7 +14,8 @@
   
   <details> <!-- TODO -->
     <summary><h3>…</h3></summary>
-    <a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>
+    <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
+    <a href="https://steamcommunity.com/id/Gabixel" target="_blank">Steam profile</a><br/><br/>
     <a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>
   </details>
 </div>
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
