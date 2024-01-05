@@ -1,7 +1,7 @@
 <div align="center">
 
   <picture>
-    <img alt="Italian & Great Britain flags" src="https://github.com/Gabixel/Gabixel/assets/43073074/6a73608c-cfef-47b6-bd4d-f0063fc2ef03" title="My known languages: Italian, English">
+    <img alt="Italian & Great Britain flags" src="https://github.com/Gabixel/Gabixel/assets/43073074/fe77fd06-071a-46c9-96c3-3cb0d16e92cd" title="My known languages: Italian, English">
   </picture>
   
   <h2>Hi there 👋</h2>
