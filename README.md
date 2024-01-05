@@ -12,8 +12,8 @@
   <a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>
 
   <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
-  <a href="https://osu.ppy.sh/users/8543042" target="_blank">My <code>osu!</code> profile</a><br/>
-  <a href="https://steamcommunity.com/id/Gabixel" target="_blank">My <code>Steam</code> community profile</a><br/>
+  <a href="https://osu.ppy.sh/users/8543042" title="Click to visit my osu! profile!" target="_blank">My <code>osu!</code> profile</a><br/>
+  <a href="https://steamcommunity.com/id/Gabixel" title="Click to visit my Steam community profile!" target="_blank">My <code>Steam</code> community profile</a><br/>
   
   <details>
     <summary><h3>🧩 My personality (<code>INFJ 4w5</code>)</h3></summary>
