@@ -1,4 +1,7 @@
 <div align="center">
+  
+  [![IT and GB flags](https://github.com/Gabixel/Gabixel/assets/43073074/6a73608c-cfef-47b6-bd4d-f0063fc2ef03)](#)
+  
   <h2>Hi there 👋</h2>
   <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
   
@@ -34,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
