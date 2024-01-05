@@ -1,6 +1,8 @@
 <div align="center">
-  
-  [![IT and GB flags](https://github.com/Gabixel/Gabixel/assets/43073074/6a73608c-cfef-47b6-bd4d-f0063fc2ef03)](#)
+
+  <picture>
+    <img alt="Italian & Great Britain flags" src="https://github.com/Gabixel/Gabixel/assets/43073074/6a73608c-cfef-47b6-bd4d-f0063fc2ef03" title="My known languages: Italian, English">
+  </picture>
   
   <h2>Hi there 👋</h2>
   <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
