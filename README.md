@@ -12,18 +12,18 @@
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
 
   <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
-  <p>
-    <!--<a href="https://osu.ppy.sh/users/8543042" title="Click to visit my osu! profile!" target="_blank">My <code>osu!</code> profile</a><br/>-->
+  <!--<p>
+    <! --<a href="https://osu.ppy.sh/users/8543042" title="Click to visit my osu! profile!" target="_blank">My <code>osu!</code> profile</a><br/>-- >
     <a href="https://osu.ppy.sh/users/8543042" target="_blank">
       <img src="https://github.com/Gabixel/Gabixel/assets/43073074/6ba7820b-352c-4a90-9d91-5d69317907ca" title="Click to visit my osu! profile!" alt="My osu! profile">
     </a>
   </p>
   <p>
-    <!--<a href="https://steamcommunity.com/id/Gabixel" title="Click to visit my Steam community profile!" target="_blank">My <code>Steam</code> community profile</a><br/>-->
+    <! --<a href="https://steamcommunity.com/id/Gabixel" title="Click to visit my Steam community profile!" target="_blank">My <code>Steam</code> community profile</a><br/>-- >
     <a href="https://steamcommunity.com/id/Gabixel" target="_blank">
       <img src="https://github.com/Gabixel/Gabixel/assets/43073074/2c5ebb6f-f7b8-432a-8b74-00e732f05c7b" title="Click to visit my Steam profile!" alt="My osu! profile">
     </a>
-  </p>
+  </p>-->
   
   <details>
     <summary><h3>🧩 My personality (<code>INFJ 4w5</code>)</h3></summary>
