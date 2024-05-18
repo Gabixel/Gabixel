@@ -33,7 +33,8 @@
     </blockquote>
   </details>
   
-  <p><i><sub>Profile picture author: Maki (<a href="https://twitter.com/FNZLDA" target="_blank">twitter</a>, <a href="https://www.instagram.com/fnzlda/" target="_blank">instagram</a>)</sub></i></p>
+  <p><i><sub>Profile picture author: Maki (<a href="https://
+www.artstation.com/fuenzalida" target="_blank">&rarr; ArtStation</a>, <a href="https://www.instagram.com/makisatelier" target="_blank">&rarr; Instagram</a>)</sub></i></p>
 </div>
 <!--
 **Gabixel/Gabixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
