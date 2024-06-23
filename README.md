@@ -56,8 +56,8 @@
     <i>
       <sub>
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a>
-          <picture><img src="https://community.akamai.steamstatic.com/economy/emoticon/happyfaye"
-              alt="Happy Faye emote" /></picture>
+          <picture><img src="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b"
+              alt="Happy Faye emote from Steam" /></picture>
         </b><br />author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
           href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)
       </sub>
