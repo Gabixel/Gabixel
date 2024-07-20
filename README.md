@@ -4,10 +4,10 @@
     but also comes with the side-effect of not loading images
     when you go back to the page from your browser's page history
   -->
-  <picture>
-    <img src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999"
-      alt="Italian and Great Britain flags"
-      title="My known languages: Italian, English">
+  <picture title="My known languages: Italian, English">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
+    <img alt="Italian and Great Britain flags." src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
   </picture>
 
   <h2>Hi there 👋</h2>
