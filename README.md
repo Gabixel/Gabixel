@@ -1,8 +1,12 @@
 <div align="center">
-
+  <!--
+    NOTE: I'm using the `picture` tag because it removes hyperlinks from images,
+    but also comes with the side-effect of not loading images
+    when you go back to the page from your browser's page history
+  -->
   <picture>
-    <img alt="Italian & Great Britain flags"
-      src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999"
+    <img src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999"
+      alt="Italian and Great Britain flags"
       title="My known languages: Italian, English">
   </picture>
 
@@ -29,7 +33,7 @@
 
   <details>
     <summary>
-      <h3>🧩 Open for more about my personality (<code>INFJ 4w5</code>)</h3>
+      <h3>🧩 Open for more about my personality (INFJ 4w5)</h3>
     </summary>
     <blockquote align="justify">
       <p>&ldquo;An <b>INFJ 4w5</b> is someone who identifies as having the <a
@@ -59,7 +63,7 @@
         </b><br />Avatar author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
           href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)<br />
         <picture><img src="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b"
-            alt="Happy Faye emote from Steam" /></picture>
+            alt="A happy Faye emote, character of the 'To the Moon' series" /></picture>
       </sub>
     </i>
   </p>
