@@ -5,9 +5,9 @@
     when you go back to the page from your browser's page history
   -->
   <picture title="My known languages: Italian, English">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
-    <img alt="Italian and Great Britain flags." src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999" alt="Italian and Great Britain flags." />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999" alt="Italian and Great Britain flags." />
+    <img src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999" alt="Italian and Great Britain flags." />
   </picture>
 
   <h2>Hi there 👋</h2>
@@ -62,8 +62,12 @@
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a>
         </b><br />Avatar author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
           href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)<br />
-        <picture><img src="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b"
-            alt="A happy Faye emote, character of the 'To the Moon' series" /></picture>
+        <picture title="^_^">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+          <img src="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b"
+            alt="A happy Faye emote, a character from the 'To the Moon' series" />
+        </picture>
       </sub>
     </i>
   </p>
