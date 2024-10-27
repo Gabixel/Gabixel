@@ -6,7 +6,7 @@
   </picture>
 
   <h2>Hi there 👋</h2>
-  <p>I'm still testing this README thing, so please ignore (～￣▽￣)～</p>
+  <p>I'm going to retire for a while, so don't expect much activity here…</p>
 
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
