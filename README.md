@@ -6,7 +6,7 @@
   </picture>
 
   <h2>Hi there 👋</h2>
-  <p>I'm going to retire for a while, so don't expect much activity here…</p>
+  <p>Wait- I don't have much to say actually…</p>
 
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
@@ -26,6 +26,7 @@
     </a>
   </p>-->
 
+<!--
   <details>
     <summary>
       <h3>🧩 Open for more about my personality (INFJ 4w5)</h3>
@@ -50,7 +51,7 @@
       <b><sub><cite>💡 Generated with ChatGPT</cite></sub></b>
     </blockquote>
   </details>
-
+-->
   <p>
     <i>
       <sub>
@@ -67,7 +68,9 @@
     </i>
   </p>
 </div>
+
 <!--
+
 **Gabixel/Gabixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -80,4 +83,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
