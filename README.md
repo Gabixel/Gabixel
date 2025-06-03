@@ -7,6 +7,7 @@
 
   <h2>Hi there 👋</h2>
   <p>Wait- I don't have much to say actually…</p>
+  <p>Just know that I tend to get very upset when I see misaligned pixels <b>¯\_(ツ)_/¯</b></p>
 
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
