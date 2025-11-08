@@ -8,7 +8,7 @@
   <h2>Hi there 👋</h2>
   <p>Wait- I don't have much to say actually…</p>
   <p>Just know that I tend to get very upset when I see misaligned pixels ¯\_(ツ)_/¯</p>
-  <p>I'm also making a game 🙃</p>
+  <p>I'm also making a game! 🎮</p>
 
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
@@ -57,15 +57,17 @@
   <p>
     <i>
       <sub>
-        Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a>
-        </b><br />Avatar author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
-          href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)<br />
+        <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
         <picture title="^_^">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b" alt="A happy Faye emote, a character from the 'To the Moon' series" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b" alt="A happy Faye emote, a character from the 'To the Moon' series" />
-          <img src="https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b"
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+          <img src="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236"
             alt="A happy Faye emote, a character from the 'To the Moon' series" />
         </picture>
+        <br>
+        Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a>
+        </b><br />Avatar author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
+          href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)
       </sub>
     </i>
   </p>
