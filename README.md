@@ -55,6 +55,13 @@
   </details>
 -->
   <p>
+    
+  [![Wikipedia contributions (Italian)](https://img.shields.io/badge/Wikipedia_contributions_(Italian)-ffffff?style=social&logo=wikipedia&logoColor=000000&logoSize=auto)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)ㅤ
+  [![CodePen profile](https://img.shields.io/badge/CodePen-ffffff?style=social&logo=codepen&logoColor=000000&logoSize=auto)](https://codepen.io/gabixel)ㅤ
+  [![Crowdin profile](https://img.shields.io/badge/Crowdin-ffffff?style=social&logo=crowdin&logoColor=000000&logoSize=auto)](https://crowdin.com/profile/gabixel)
+  </p>
+  <hr>
+  <p>
     <i>
       <sub>
         <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
@@ -70,12 +77,6 @@
           href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)
       </sub>
     </i>
-  </p>
-  <p>
-    
-  [![Wikipedia contributions (Italian)](https://img.shields.io/badge/Wikipedia_contributions_(Italian)-ffffff?style=social&logo=wikipedia&logoColor=000000&logoSize=auto)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)ㅤ
-  [![CodePen profile](https://img.shields.io/badge/CodePen-ffffff?style=social&logo=codepen&logoColor=000000&logoSize=auto)](https://codepen.io/gabixel)ㅤ
-  [![Crowdin profile](https://img.shields.io/badge/Crowdin-ffffff?style=social&logo=crowdin&logoColor=000000&logoSize=auto)](https://crowdin.com/profile/gabixel)
   </p>
 </div>
 
