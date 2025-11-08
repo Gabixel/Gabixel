@@ -61,22 +61,25 @@
   [![Crowdin profile](https://img.shields.io/badge/Crowdin-ffffff?style=social&logo=crowdin&logoColor=000000&logoSize=auto)](https://crowdin.com/profile/gabixel)
   </p>
   <hr>
+  <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
+  <picture title="^_^">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+    <img src="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236"
+      alt="A happy Faye emote, a character from the 'To the Moon' series" />
+  </picture><picture title=">_>">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/adbd3fa5-a2e5-46cc-b6bc-dc9e172aefe8" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/adbd3fa5-a2e5-46cc-b6bc-dc9e172aefe8" alt="A happy Faye emote, a character from the 'To the Moon' series" />
+    <img src="https://github.com/user-attachments/assets/adbd3fa5-a2e5-46cc-b6bc-dc9e172aefe8"
+      alt="A sad Faye emote, a character from the 'To the Moon' series" />
+  </picture>
+  <br>
   <p>
-    <i>
-      <sub>
-        <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
-        <picture title="^_^">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
-          <img src="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236"
-            alt="A happy Faye emote, a character from the 'To the Moon' series" />
-        </picture>
+    <sub>
+        Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
         <br>
-        Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a>
-        </b><br />Avatar author: Maki (<a href="https://www.artstation.com/fuenzalida">&rarr; ArtStation</a>, <a
-          href="https://www.instagram.com/makisatelier">&rarr; Instagram</a>)
-      </sub>
-    </i>
+        Avatar author: <strong>Maki &rarr; <a href="https://www.artstation.com/fuenzalida">ArtStation</a>, <a href="https://www.instagram.com/makisatelier">Instagram</a></strong>
+    </sub>
   </p>
 </div>
 
