@@ -81,7 +81,7 @@
     <sub>
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
         <br>
-        Avatar author: <strong>Maki &rarr; <a href="https://www.artstation.com/fuenzalida">ArtStation</a>, <a href="https://www.instagram.com/makisatelier">Instagram</a></strong>
+        Avatar author: <strong>Maki &rarr; <a href="https://www.artstation.com/fuenzalida">ArtStation</a>, <a href="https://www.instagram.com/makisatelier">Instagram</a>, <a href="https://x.com/makisatelier">Twitter/X</a> (<a href="https://x.com/makisatelier/status/1626657404828934147">Original post</a>)</strong>
     </sub>
   </p>
 </div>
