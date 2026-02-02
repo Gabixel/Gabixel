@@ -8,7 +8,6 @@
   <h2>Hi there 👋</h2>
   <p>Wait- I don't have much to say actually…</p>
   <p>Just know that I tend to get very upset when I see misaligned pixels :bowtie:</p>
-  <p>I'm also making a (web) game! 🎮</p>
 
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
@@ -56,15 +55,24 @@
 -->
   <p>
 
-
   [!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ
   [![Github Gists](https://github.com/user-attachments/assets/8548afbe-5da9-41fe-8c69-e1f28bcb0771)](https://gist.github.com/Gabixel)ㅤ
-  [![Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/34c52ce3-7478-4043-9689-08bc76aed23f)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)ㅤ
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
-  [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
-  [!["Figma" profile](https://github.com/user-attachments/assets/15bb34cd-e7c8-4453-b723-bfa1edd663a8)](https://figma.com/@Gabixel)
+  [!["Figma" profile](https://github.com/user-attachments/assets/15bb34cd-e7c8-4453-b723-bfa1edd663a8)](https://figma.com/@Gabixel)ㅤ
+  [![Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/34c52ce3-7478-4043-9689-08bc76aed23f)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)
   </p>
+  <hr>
+  <p>
+
+  Game-related profiles:
+  
+  [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
+  [!["Steam" profile](https://github.com/user-attachments/assets/cdd71b62-1761-4bfb-ab85-a9628cdead08)](https://steamcommunity.com/id/Gabixel/)ㅤ
+  [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel_)
+  </p>
+  <hr>
+  <p>I'm also making a (web) game! 🎮</p>
   <hr>
   <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
   <picture title="^_^">
