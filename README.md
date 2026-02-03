@@ -62,13 +62,13 @@
   [!["Figma" profile](https://github.com/user-attachments/assets/15bb34cd-e7c8-4453-b723-bfa1edd663a8)](https://figma.com/@Gabixel)ㅤ
   [![Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/34c52ce3-7478-4043-9689-08bc76aed23f)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)
   </p>
-  <hr>
   <p>
 
-  Game-related profiles:
+  My gaming profiles:
   
   [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
   [!["Steam" profile](https://github.com/user-attachments/assets/cdd71b62-1761-4bfb-ab85-a9628cdead08)](https://steamcommunity.com/id/Gabixel/)ㅤ
+  [!["osu!" profile](https://github.com/user-attachments/assets/a132bab0-eb30-46af-b0be-83f47e5731a8)](https://osu.ppy.sh/users/8543042)ㅤ
   [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel_)
   </p>
   <hr>
