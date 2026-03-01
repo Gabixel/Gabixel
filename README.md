@@ -69,7 +69,9 @@
   [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
   [!["Steam" profile](https://github.com/user-attachments/assets/cdd71b62-1761-4bfb-ab85-a9628cdead08)](https://steamcommunity.com/id/Gabixel/)ㅤ
   [!["osu!" profile](https://github.com/user-attachments/assets/a132bab0-eb30-46af-b0be-83f47e5731a8)](https://osu.ppy.sh/users/8543042)ㅤ
-  [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel)
+  [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel)ㅤ
+  [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)
+
   </p>
   <hr>
   <p>I'm also making a (web) game! 🎮</p>
