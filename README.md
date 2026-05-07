@@ -55,7 +55,7 @@
 -->
   <p>
 
-  [!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ
+  <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
   [![Github Gists](https://github.com/user-attachments/assets/8548afbe-5da9-41fe-8c69-e1f28bcb0771)](https://gist.github.com/Gabixel)ㅤ
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
