@@ -4,11 +4,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999" alt="Italian and Great Britain flags." />
     <img src="https://github.com/Gabixel/Gabixel/assets/43073074/9c11cd7a-20ed-4442-ba81-41aa70257999" alt="Italian and Great Britain flags." />
   </picture>
-
-  <h2>Hi there 👋</h2>
+  
+  <h3>Hi there! 👋</h3>
   <p>Wait- I don't have much to say actually…</p>
   <p>Just know that I tend to get very upset when I see misaligned pixels :bowtie:</p>
-
+  
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
@@ -60,22 +60,29 @@
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
   [!["Figma" profile](https://github.com/user-attachments/assets/15bb34cd-e7c8-4453-b723-bfa1edd663a8)](https://figma.com/@Gabixel)ㅤ
-  [![Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/34c52ce3-7478-4043-9689-08bc76aed23f)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)
+  [![Codewars profile](https://github.com/user-attachments/assets/cd949347-b198-46dd-8b2c-13bf64af21d8)](https://www.codewars.com/users/Gabixel)<br>
+  [![Wikipedia profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
+  [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>
   </p>
+  ⁂ ⁂ ⁂<br>
   <p>
-
+    
   My gaming profiles:
   
   [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
   [!["Steam" profile](https://github.com/user-attachments/assets/cdd71b62-1761-4bfb-ab85-a9628cdead08)](https://steamcommunity.com/id/Gabixel/)ㅤ
   [!["osu!" profile](https://github.com/user-attachments/assets/a132bab0-eb30-46af-b0be-83f47e5731a8)](https://osu.ppy.sh/users/8543042)ㅤ
   [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel)ㅤ
-  [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)
-
+  [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)ㅤ
+  [!["Instant Gaming" profile](https://github.com/user-attachments/assets/8c84fcc6-ff8d-456a-b31f-6c76378124bd)](https://www.instant-gaming.com/it/user/gabixel?igr=gabixel)
+  
   </p>
-  <hr>
-  <p>I'm also making a (web) game! 🎮</p>
-  <hr>
+  ⁂ ⁂ ⁂<br>
+  <br>
+  <p>🎮<br>I'm also making some web games! :)<br>(no public info yet)</p>
+  <br>
+  ⁂ ⁂ ⁂<br>
+  <br>
   <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
   <picture title="^_^">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a1ef061f-df13-488e-a7d2-1f2df9dcd236" alt="A happy Faye emote, a character from the 'To the Moon' series" />
@@ -117,6 +124,8 @@ Here are some ideas to get you started:
 
 <!--
 
+Icons from: https://simpleicons.org/
+
 Badge generation links:
 - StackOverflow: https://img.shields.io/badge/Stack_Overflow-ffffff?style=social&logo=stackoverflow&logoColor=000000&logoSize=auto
 - Github Gists: https://img.shields.io/badge/Gists-ffffff?style=social&logoColor=000000&logoSize=auto&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHZlcnNpb249IjEuMSIgd2lkdGg9IjE2IiBkYXRhLXZpZXctY29tcG9uZW50PSJ0cnVlIiBjbGFzcz0ib2N0aWNvbiBvY3RpY29uLWNvZGUtc3F1YXJlIFVuZGVybGluZU5hdi1vY3RpY29uIj4KICAgIDxwYXRoIGQ9Ik0wIDEuNzVDMCAuNzg0Ljc4NCAwIDEuNzUgMGgxMi41QzE1LjIxNiAwIDE2IC43ODQgMTYgMS43NXYxMi41QTEuNzUgMS43NSAwIDAgMSAxNC4yNSAxNkgxLjc1QTEuNzUgMS43NSAwIDAgMSAwIDE0LjI1Wm0xLjc1LS4yNWEuMjUuMjUgMCAwIDAtLjI1LjI1djEyLjVjMCAuMTM4LjExMi4yNS4yNS4yNWgxMi41YS4yNS4yNSAwIDAgMCAuMjUtLjI1VjEuNzVhLjI1LjI1IDAgMCAwLS4yNS0uMjVabTcuNDcgMy45N2EuNzUuNzUgMCAwIDEgMS4wNiAwbDIgMmEuNzUuNzUgMCAwIDEgMCAxLjA2bC0yIDJhLjc0OS43NDkgMCAwIDEtMS4yNzUtLjMyNi43NDkuNzQ5IDAgMCAxIC4yMTUtLjczNEwxMC42OSA4IDkuMjIgNi41M2EuNzUuNzUgMCAwIDEgMC0xLjA2Wk02Ljc4IDYuNTMgNS4zMSA4bDEuNDcgMS40N2EuNzQ5Ljc0OSAwIDAgMS0uMzI2IDEuMjc1Ljc0OS43NDkgMCAwIDEtLjczNC0uMjE1bC0yLTJhLjc1Ljc1IDAgMCAxIDAtMS4wNmwyLTJhLjc1MS43NTEgMCAwIDEgMS4wNDIuMDE4Ljc1MS43NTEgMCAwIDEgLjAxOCAxLjA0MloiLz4KPC9zdmc+
@@ -125,5 +134,6 @@ Badge generation links:
 - Crowdin: https://img.shields.io/badge/Crowdin-ffffff?style=social&logo=crowdin&logoColor=000000&logoSize=auto
 - RankOne: https://img.shields.io/badge/RankOne-ffffff?style=social&logoColor=000000&logoSize=auto&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJyYW5rb25lLWxvY2t1cC1ibGFjayIgdmlld0JveD0iMCAwIDUwMCA1MDAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICMwMDA7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAwcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIAogIDxnPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTY3LjQ0LDg0Ljg1YzkuMzQtMS4xNCwxNi4xNy0yLjM2LDI1LjUxLTMuNjksMi44OS0uNDEsMi44OS0uMzksMi44OSwyLjY4djIwMC44OWMuMDIsMS42Mi4wOCwzLjI0LDIuOCw0LjQ5LDQuMDYsMS42NywzMi42NiwxNC4yMSw0NS43LDE5Ljg5LDEuODEuNzgsMy43MywxLjE3LDUuNjYsMS4xNywxLjgyLDAsMy42NC0uMzUsNS4zNi0xLjA1LDExLjI0LTQuNjIsMzQuODQtMTUuNDIsNDUuNTktMTkuOTksMi4zMy0uOTgsMi45Ni0yLjEsMi45NC00LjQ3LS4wNC04NS45OC0uMDYtMTcxLjk3LjAyLTI1Ny45NywwLTMuMjUtLjItNC40LTQuMDctNi4xLS42NC0uMjgtMzEuMTQtMTQuMDMtNDQuNDYtMTkuNThDMjUzLjY1LjM4LDI1MS44My4wMSwyNTAsMGMtMS45Ni0uMDItMy45MS4zNy01Ljc1LDEuMTctMTguMjgsNy45Ni03MS40NSwzMS4yLTc5LjA0LDM0LjUzLTEuMi41My0yLjIyLDEuMDYtMi4yMiwyLjguMDgsMTUsLjA1LDI2LjUzLDAsNDEuNTcsMCwxLjEyLS4yOCw1LjM2LDQuNDUsNC43OFoiLz4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ5OS45NSwyODguNDRjLjAyLS45Ny0uOTEtMS42NS0xLjc4LTEuMjYtMTM1LjAzLDU5LjY1LTIxOC40OCw5Mi44My0yNDEuNTksMTAxLjg3LTIuMTIuODMtNC4zNSwxLjIyLTYuNTgsMS4xNy0yLjE4LS4wMy00LjM2LS40OS02LjQyLTEuMzctMjIuMjYtOS41LTEwMi4zNS00My40Ni0yNDAuMTctOTkuMDctMS42LS42NS0zLjM2LjUzLTMuMzcsMi4yNi0uMDEsMjIuNTgsMCw0NS4xNy0uMDUsNjcuNzYsMCwyLjM0LDEuMTEsNC41NSwzLjAxLDUuOTEsMTMuNDMsOS42Miw2Ni42NiwzOS4xMSwxMjAuMzEsNjguMjcsMTQuOTQsOC4xMiw1Mi43OSwyOC4xNiwxMDguNzUsNTguNjgsOC44LDQuODksMTMuMzMsNy4zNSwxNy45Myw3LjMzaDBjNC42Mi0uMDIsOS4zLTIuNTUsMTguNDQtNy42MSw1NS42OS0zMC43OSw5My4zNi01MC40LDEwOC4yNC01OC40MSwyNy43OC0xNC45NSw2Ny44Ny0zNy4yNywxMTkuNzktNjguNjUsMi4xOC0xLjMyLDMuNTItMy42OSwzLjUxLTYuMjQtLjA1LTIzLjU1LS4wMy00Ny4xLS4wNS03MC42NVoiLz4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTM2OC43MiwzMDUuNjNjMjEuNTEsNC4zOCw1MS41MywxLjIzLDU4LjQ4LTExLjMuMzktLjcxLjYtMS41MS42Mi0yLjMybC4yMi05LjQzdi0uMzRjLjAxLTcuMjktMTguMTctMTMuMTktNDAuNjItMTMuMTlzLTQwLjY0LDUuOS00MC42NCwxMy4xOWwuMDQsOS40NXMtLjI5LDkuNDIsMjEuOTEsMTMuOTRaIi8+CiAgPC9nPgo8L3N2Zz4=
 - Figma: https://img.shields.io/badge/Figma-ffffff?style=social&logo=figma&logoColor=000000&logoSize=auto
+- Instant Gaming: https://img.shields.io/badge/Instant_Gaming-ffffff?style=social&logoColor=000000&logoSize=auto&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjMuMzU3IiBoZWlnaHQ9IjM0OC4wOTQiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iQSIgeDE9Ii0uMDA1IiB5MT0iMzQ3Ljk4MyIgeDI9IjMxOS4xIiB5Mj0iMTY2LjY1MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmOGExNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmMzEzMSIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJCIiB4MT0iMTAuODg5IiB5MT0iMjE4LjU3IiB4Mj0iOTcuMDAxIiB5Mj0iNzIuMDg4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY3NzFiIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmY0NTJiIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLjAxNDI4MiAwIDAgMS4wMTQyODIgLjAwMjcwMyAtNC44NTkwMTMpIj48cGF0aCBkPSJNNTAuMDgyIDQuNzk1YTE2LjcyIDE2LjcyIDAgMCAwLTcuOTM5IDIuMjQyTDguMzkxIDI2LjUxQy4zNjggMzEuMTM3LTIuMzgzIDQxLjM5MyAyLjI0OCA0OS40MTRjMy4xMDggNS4zNzkgOC43NDggOC4zODUgMTQuNTQ3IDguMzg1YTE2LjcyIDE2LjcyIDAgMCAwIDguMzc1LTIuMjQ4bDMzLjc1Mi0xOS40NzJjOC4wMjMtNC42MjcgMTAuNzc0LTE0Ljg4NCA2LjE0My0yMi45MDQtMy4xODYtNS41MTMtOS4wMzItOC41MzMtMTQuOTgyLTguMzc5em04NC4xNTEgNDguMjg5Yy0yLjg5NiAwLTUuNzkzLjc0OS04LjM4OSAyLjI0Nkw4LjM4OSAxMjMuMDkyYy04LjAyNSA0LjYzLTEwLjc3NCAxNC44ODQtNi4xNDEgMjIuOTA0IDMuMTA4IDUuMzc5IDguNzQ4IDguMzg1IDE0LjU0NyA4LjM4NWExNi43MiAxNi43MiAwIDAgMCA4LjM3My0yLjI0OGwxMDkuMDYzLTYyLjkyMiAxMzQuMjMyIDc3LjQ0M0wzMy41NTYgMzAyLjE3NnYtNTguMDgybDEuODU5LTEuMDczLTI0LjUyNy0yNC41ODEtMi41IDEuNDU0Yy01LjE5MiAyLjk5NS04LjM4OSA4LjUzMS04LjM4OSAxNC41MjF2OTYuODAxYzAgNS45OTEgMy4xOTcgMTEuNTI2IDguMzg5IDE0LjUyMSAyLjU5NiAxLjQ5OCA1LjQ5MyAyLjI0NiA4LjM5MSAyLjI0NmExNi43NyAxNi43NyAwIDAgMCA4LjM4OS0yLjI0NkwzMTAuNDEgMTgxLjE3MmExNi43NyAxNi43NyAwIDAgMCA4LjM5MS0xNC41MmMuMDAyLTUuOTkyLTMuMTk5LTExLjUyNS04LjM5MS0xNC41MmwtODMuNjA5LTQ4LjIzNmMtLjE3OS0uMTA4LS4zNi0uMjEyLS41NDMtLjMxMkwxNDIuNjIxIDU1LjMzYTE2Ljc4IDE2Ljc4IDAgMCAwLTguMzg5LTIuMjQ2eiIgZmlsbD0idXJsKCNBKSIvPjxwYXRoIGQ9Ik0xODQuNDgxIDExOC4yNTVMMTUuNjMzIDIxNS42NjFsLTYuMDk2IDMuNTcgMjQuMDE5IDI0Ljg2MyAxODQuNDgzLTEwNi40Nzh6IiBmaWxsPSJ1cmwoI0IpIi8+PC9nPjwvc3ZnPg==
 
 -->
