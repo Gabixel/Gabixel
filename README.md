@@ -14,18 +14,6 @@
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
 
   <!--<a href="https://osu.ppy.sh/users/8543042" target="_blank"><img src="https://osu-sig.vercel.app/card?user=Gabixel&mode=std&lang=en&blur=6&hue=200&mini=true" title="Click to visit my osu! profile!" alt="My osu! profile"></a><br/>-->
-  <!--<p>
-    <! --<a href="https://osu.ppy.sh/users/8543042" title="Click to visit my osu! profile!" target="_blank">My <code>osu!</code> profile</a><br/>-- >
-    <a href="https://osu.ppy.sh/users/8543042" target="_blank">
-      <img src="https://github.com/Gabixel/Gabixel/assets/43073074/6ba7820b-352c-4a90-9d91-5d69317907ca" title="Click to visit my osu! profile!" alt="My osu! profile">
-    </a>
-  </p>
-  <p>
-    <! --<a href="https://steamcommunity.com/id/Gabixel" title="Click to visit my Steam community profile!" target="_blank">My <code>Steam</code> community profile</a><br/>-- >
-    <a href="https://steamcommunity.com/id/Gabixel" target="_blank">
-      <img src="https://github.com/Gabixel/Gabixel/assets/43073074/2c5ebb6f-f7b8-432a-8b74-00e732f05c7b" title="Click to visit my Steam profile!" alt="My osu! profile">
-    </a>
-  </p>-->
 
 <!--
   <details>
@@ -53,6 +41,7 @@
     </blockquote>
   </details>
 -->
+  <h3>Profiles</h3>
   <p>
 
   <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
@@ -64,10 +53,8 @@
   [![Wikipedia profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
   [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>
   </p>
-  ⁂ ⁂ ⁂<br>
+  <h4><sub>Gaming ones</sub></h4>
   <p>
-    
-  My gaming profiles:
   
   [!["RankOne" profile](https://github.com/user-attachments/assets/91abfa02-183d-4b1c-8cd8-42f958efe15f)](https://www.rankone.global/gabixel)ㅤ
   [!["Steam" profile](https://github.com/user-attachments/assets/cdd71b62-1761-4bfb-ab85-a9628cdead08)](https://steamcommunity.com/id/Gabixel/)ㅤ
@@ -78,8 +65,23 @@
   
   </p>
   ⁂ ⁂ ⁂<br>
-  <br>
-  <p>🎮<br>I'm also making some web games! :)<br>(no public info yet)</p>
+  <h3>Projects</h3>
+  <p>
+      <sub>A 2D card game for web (with websockets), inspired by "Dixit"<br></sub>
+      <kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd>
+  </p>
+  <p>
+      <sub>A 3D Pong-like game for web (with websockets)<br></sub>
+      <kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd>
+  </p>
+  <p>
+      <sub><sup>[ARCHIVED]</sup> Online menu for "Rabuki To Be…", a pub in Gabicce Mare, Italy<br></sub>
+      <a href="https://rabuki.vercel.app/menu" target="_blank"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a>
+  </p>
+  <p>
+      <sub><sup>[ARCHIVED]</sup> "Pizza Time", a high school project website (class 5J)<br></sub>
+      <a href="https://gabrieldn5j.altervista.org/" target="_blank"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a>
+  </p>
   <br>
   ⁂ ⁂ ⁂<br>
   <br>
