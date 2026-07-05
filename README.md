@@ -68,20 +68,24 @@
   <details>
     <summary><h3>Projects</h3></summary>
     <p>
-        <sub>A 2D card game for web (with websockets), inspired by "Dixit"<br></sub>
-        <kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd>
+        <b>Card game (WORKING TITLE)</b><br>
+        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
+        <sup>A 2D web-based card game, with WebSockets, inspired by <a href="https://en.wikipedia.org/wiki/Dixit_(board_game)">"Dixit"</a></sup>
     </p>
     <p>
-        <sub>A 3D Pong-like game for web (with websockets)<br></sub>
-        <kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd>
+        <b>3D Pong (WORKING TITLE)</b><br>
+        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
+        <sup>A 3D Pong-like game for web, with WebSockets</sup>
     </p>
     <p>
-        <sub><sup>[ARCHIVED]</sup> Online menu for "Rabuki To Be…", a pub in Gabicce Mare, Italy<br></sub>
-        <a href="https://rabuki.vercel.app/menu" target="_blank"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a>
+        <b>Rabuki To Be…</b> <sup>[ARCHIVED]</sup><br>
+        <sup><a href="https://rabuki.vercel.app/menu"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+        <sup>Online menu for a pub in Gabicce Mare, Italy</sup>
     </p>
     <p>
-        <sub><sup>[ARCHIVED]</sup> "Pizza Time", a high school project website (class 5J)<br></sub>
-        <a href="https://gabrieldn5j.altervista.org/" target="_blank"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a>
+        <b>Pizza Time</b> <sup>[ARCHIVED]</sup><br>
+        <sup><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+        <sup>A high-school project website (class: 5J)</sup>
     </p>
   </details>
   ⁂ ⁂ ⁂<br>
