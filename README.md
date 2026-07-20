@@ -85,6 +85,7 @@
     <p>
         <b>Pizza Time</b> <sup>[ARCHIVED]</sup><br>
         <sup><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+        <sup><a href="https://github.com/Gabixel/pizza-time/"><kbd><b>Gabixel/pizza-time&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
         <sup>A high-school project website (class: 5J)</sup>
     </p>
   </details>
