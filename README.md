@@ -65,8 +65,9 @@
   
   </p>
   ⁂ ⁂ ⁂<br>
+  <h3>Projects</h3>
   <details>
-    <summary><h3>Projects</h3></summary>
+    <summary>Open here</summary>
     <p>
         <b>Card game (WORKING TITLE)</b><br>
         <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
