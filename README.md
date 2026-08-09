@@ -73,7 +73,7 @@
       <tr>
         <td>
           <details>
-            <summary>Open here</summary>
+            <summary><b>Open here</b></summary>
             <table>
               <tbody align="center">
                 <tr>
@@ -81,7 +81,7 @@
                     <p>
                         <b>Card game (WORKING TITLE)</b><br>
                         <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
-                        <sup>A 2D web-based card game, with WebSockets, inspired by <a href="https://en.wikipedia.org/wiki/Dixit_(board_game)">"Dixit"</a></sup>
+                        <sup>A 2D web-based card game, with WebSockets, inspired by <b><a href="https://en.wikipedia.org/wiki/Dixit_(board_game)">Dixit</a></b></sup>
                     </p>
                   </td>
                 </tr>
