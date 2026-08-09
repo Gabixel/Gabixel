@@ -65,31 +65,63 @@
   
   </p>
   ⁂ ⁂ ⁂<br>
-  <h3>Projects</h3>
-  <details>
-    <summary>Open here</summary>
-    <p>
-        <b>Card game (WORKING TITLE)</b><br>
-        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
-        <sup>A 2D web-based card game, with WebSockets, inspired by <a href="https://en.wikipedia.org/wiki/Dixit_(board_game)">"Dixit"</a></sup>
-    </p>
-    <p>
-        <b>3D Pong (WORKING TITLE)</b><br>
-        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
-        <sup>A 3D Pong-like game for web, with WebSockets</sup>
-    </p>
-    <p>
-        <b>Rabuki To Be…</b> <sup>[ARCHIVED]</sup><br>
-        <sup><a href="https://rabuki.vercel.app/menu"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-        <sup>Online menu for a pub in Gabicce Mare, Italy</sup>
-    </p>
-    <p>
-        <b>Pizza Time</b> <sup>[ARCHIVED]</sup><br>
-        <sup><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-        <sup><a href="https://github.com/Gabixel/pizza-time/"><kbd><b>Gabixel/pizza-time&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-        <sup>A high-school project website (class: 5J)</sup>
-    </p>
-  </details>
+  <table>
+    <caption>
+        <h3>Projects</h3>
+    </caption>
+    <tbody align="center">
+      <tr>
+        <td>
+          <details>
+            <summary>Open here</summary>
+            <table>
+              <tbody align="center">
+                <tr>
+                  <td>
+                    <p>
+                        <b>Card game (WORKING TITLE)</b><br>
+                        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
+                        <sup>A 2D web-based card game, with WebSockets, inspired by <a href="https://en.wikipedia.org/wiki/Dixit_(board_game)">"Dixit"</a></sup>
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>
+                        <b>3D Pong (WORKING TITLE)</b><br>
+                        <sup><kbd><b>&lt;WORK IN PROGRESS&gt;</b></kbd></sup><br>
+                        <sup>A 3D Pong-like game for web, with WebSockets</sup>
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>
+                        <b>Rabuki To Be…</b><br>
+                        <sup><a href="https://rabuki.vercel.app/menu"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+                        <sup>Online menu for a pub in Gabicce Mare, Italy</sup><br>
+                        <sup>[ARCHIVED]</sup>
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>
+                        <b>Pizza Time</b><br>
+                        <sup><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+                        <sup><a href="https://github.com/Gabixel/pizza-time/"><kbd><b>Gabixel/pizza-time&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
+                        <sup>A high-school project website (class: 5J)</sup><br>
+                        <sup>[ARCHIVED]</sup>
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </details>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   ⁂ ⁂ ⁂<br>
   <br>
   <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
