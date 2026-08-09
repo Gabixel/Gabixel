@@ -110,6 +110,12 @@
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
     </sub>
   </p>
+  ⁂ ⁂ ⁂<br>
+  <br>
+  <p>
+    <!-- https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86 -->
+    <a href="https://github.com/sponsors/Gabixel"><img width="93" height="20" src="https://github.com/user-attachments/assets/222a035e-43cf-496e-940d-f490254e0456"></a>
+  </p>
 </div>
 
 <!--
