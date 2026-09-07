@@ -6,8 +6,10 @@
   </picture>
   
   <h3>Hi there! 👋</h3>
-  <p>Wait- I don't have much to say actually…</p>
-  <p>Just know that I tend to get very upset when I see misaligned pixels :bowtie:</p>
+  <p>
+    Wait- I don't have much to say actually…<br>
+    Just know that I tend to get very upset when I see misaligned pixels :bowtie:
+  </p>
   
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
@@ -45,13 +47,14 @@
   <p>
 
   <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
+  [!["Gravatar" profile](https://github.com/user-attachments/assets/24fcec64-2975-45c1-bb09-f55bf7e131ca)](https://gravatar.com/gabixel)<br>
+  [!["Wikipedia" profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
+  [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>
   [![Github Gists](https://github.com/user-attachments/assets/8548afbe-5da9-41fe-8c69-e1f28bcb0771)](https://gist.github.com/Gabixel)ㅤ
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
   [!["Figma" profile](https://github.com/user-attachments/assets/15bb34cd-e7c8-4453-b723-bfa1edd663a8)](https://figma.com/@Gabixel)ㅤ
   [![Codewars profile](https://github.com/user-attachments/assets/cd949347-b198-46dd-8b2c-13bf64af21d8)](https://www.codewars.com/users/Gabixel)<br>
-  [![Wikipedia profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
-  [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>
   </p>
   <h4><sub>Gaming ones</sub></h4>
   <p>
@@ -62,9 +65,8 @@
   [!["GOG" profile](https://github.com/user-attachments/assets/97e81d83-bd4d-49be-8327-1e0d7a575392)](https://www.gog.com/u/Gabixel)ㅤ
   [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)ㅤ
   [!["Instant Gaming" profile](https://github.com/user-attachments/assets/8c84fcc6-ff8d-456a-b31f-6c76378124bd)](https://www.instant-gaming.com/it/user/gabixel?igr=gabixel)
-  
   </p>
-  ⁂ ⁂ ⁂<br>
+  ⁂ㅤ⁂ㅤ⁂<br>
   <table>
     <caption>
         <h3>Projects</h3>
@@ -122,7 +124,7 @@
       </tr>
     </tbody>
   </table>
-  ⁂ ⁂ ⁂<br>
+  ⁂ㅤ⁂ㅤ⁂<br>
   <br>
   <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
   <picture title="^_^">
@@ -142,7 +144,7 @@
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
     </sub>
   </p>
-  ⁂ ⁂ ⁂<br>
+  ⁂ㅤ⁂ㅤ⁂<br>
   <br>
   <p>
     <!-- https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86 -->
@@ -172,6 +174,7 @@ Here are some ideas to get you started:
 Icons from: https://simpleicons.org/
 
 Badge generation links:
+- Gravatar: https://img.shields.io/badge/Gravatar-ffffff?style=social&logo=gravatar&logoColor=000000&logoSize=auto
 - StackOverflow: https://img.shields.io/badge/Stack_Overflow-ffffff?style=social&logo=stackoverflow&logoColor=000000&logoSize=auto
 - Github Gists: https://img.shields.io/badge/Gists-ffffff?style=social&logoColor=000000&logoSize=auto&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHZlcnNpb249IjEuMSIgd2lkdGg9IjE2IiBkYXRhLXZpZXctY29tcG9uZW50PSJ0cnVlIiBjbGFzcz0ib2N0aWNvbiBvY3RpY29uLWNvZGUtc3F1YXJlIFVuZGVybGluZU5hdi1vY3RpY29uIj4KICAgIDxwYXRoIGQ9Ik0wIDEuNzVDMCAuNzg0Ljc4NCAwIDEuNzUgMGgxMi41QzE1LjIxNiAwIDE2IC43ODQgMTYgMS43NXYxMi41QTEuNzUgMS43NSAwIDAgMSAxNC4yNSAxNkgxLjc1QTEuNzUgMS43NSAwIDAgMSAwIDE0LjI1Wm0xLjc1LS4yNWEuMjUuMjUgMCAwIDAtLjI1LjI1djEyLjVjMCAuMTM4LjExMi4yNS4yNS4yNWgxMi41YS4yNS4yNSAwIDAgMCAuMjUtLjI1VjEuNzVhLjI1LjI1IDAgMCAwLS4yNS0uMjVabTcuNDcgMy45N2EuNzUuNzUgMCAwIDEgMS4wNiAwbDIgMmEuNzUuNzUgMCAwIDEgMCAxLjA2bC0yIDJhLjc0OS43NDkgMCAwIDEtMS4yNzUtLjMyNi43NDkuNzQ5IDAgMCAxIC4yMTUtLjczNEwxMC42OSA4IDkuMjIgNi41M2EuNzUuNzUgMCAwIDEgMC0xLjA2Wk02Ljc4IDYuNTMgNS4zMSA4bDEuNDcgMS40N2EuNzQ5Ljc0OSAwIDAgMS0uMzI2IDEuMjc1Ljc0OS43NDkgMCAwIDEtLjczNC0uMjE1bC0yLTJhLjc1Ljc1IDAgMCAxIDAtMS4wNmwyLTJhLjc1MS43NTEgMCAwIDEgMS4wNDIuMDE4Ljc1MS43NTEgMCAwIDEgLjAxOCAxLjA0MloiLz4KPC9zdmc+
 - Wikipedia: https://img.shields.io/badge/Wikipedia_contributions_(Italian)-ffffff?style=social&logo=wikipedia&logoColor=000000&logoSize=auto
