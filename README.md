@@ -76,7 +76,7 @@
   ⁂ㅤ⁂ㅤ⁂<br>
   <table>
     <caption>
-        <h3>Projects</h3>
+        <h3>Archived Projects</h3>
     </caption>
     <tbody align="center">
       <tr>
@@ -85,7 +85,7 @@
             <summary><b>Open here</b></summary>
             <table>
               <tbody align="center">
-                <tr>
+                <!--<tr>
                   <td>
                     <p>
                         <b>Card game (WORKING TITLE)</b><br>
@@ -102,7 +102,7 @@
                         <sup>A 3D Pong-like game for web, with WebSockets</sup>
                     </p>
                   </td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td>
                     <p>
