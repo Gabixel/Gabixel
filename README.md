@@ -11,12 +11,40 @@
     Just know that I tend to get very upset when I see misaligned pixels :bowtie:
   </p>
 
-  <p><mark>🌻 Currently working on <strong><a href="https://github.com/Gabixel/Bloom">Bloom</a></strong>, an Android webapp music player with <a href="https://github.com/navidrome/navidrome">Navidrome</a> in mind 🌻</mark></p>
-  <p>
-    I was a decent C# developer, but I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets/frameworks (TypeScript, Svelte).<br>
-    I'm altro trying to make some WebSocket games in my spare time.<br>
-    I think I also want to learn the <strong>Go</strong> language.
-    </p>
+  <table>
+    <tbody><tr><td align="center">
+      <p>
+        I was a decent C# developer, but I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets (TypeScript) and frameworks (Svelte, NOT REACT).<br>
+        I'm altro trying to make some WebSocket games in my spare time.<br>
+        I think I also want to learn the <strong>Go</strong> language.
+      </p>
+    </td></tr></tbody>
+  </table>
+  
+  <table>
+    <tbody><tr><td align="center">
+      <p><mark>🌻 Currently working on <strong><a href="https://github.com/Gabixel/Bloom">Bloom</a></strong>, an Android webapp music player with <a href="https://github.com/navidrome/navidrome">Navidrome</a> in mind 🌻</mark></p>
+    </td></tr></tbody>
+  </table>
+  
+  <table>
+    <thead><tr><th align="center">
+      In my free time, I love helping online
+    </th></tr></thead>
+    <tbody><tr><td>
+      <ul>
+        <li>
+          Sometimes I report bugs / discuss in the <a href="https://github.com/ppy/osu">osu! repository</a>;
+        </li>
+        <li>
+          I also help translating the osu! projects (web & client) in Italian on <a href="https://crowdin.com/project/osu-web/activity-stream?lang=24">Crowdin</a>;
+        </li>
+        <li>
+          I make some corrections/improvements in the (Italian) Wikipedia project.
+        </li>
+      </ul>
+    </td></tr></tbody>
+  </table>
   
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
