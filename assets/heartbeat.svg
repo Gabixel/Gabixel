@@ -1,0 +1,72 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_shadow_transform_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.45, 1.45, 0.8, 1);
+    transform: translateX(213px) translateY(254px) translate(326.857px, 286px) scaleX(1.2) scaleY(1.2) translate(-326.857px, -286px);
+  }
+  37.49% {
+    transform: translateX(213px) translateY(254px) translate(326.857px, 286px) scaleX(1.4) scaleY(1.4) translate(-326.857px, -286px);
+  }
+  100% {
+    transform: translateX(213px) translateY(254px) translate(326.857px, 286px) scaleX(1.4) scaleY(1.4) translate(-326.857px, -286px);
+  }
+}
+@keyframes kf_shadow_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  37.49% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#shadow {
+  transform-origin: 0 0;
+  animation:
+    kf_shadow_transform_0 1s linear infinite,
+    kf_shadow_opacity_0 1s linear infinite;
+}
+@keyframes kf_Vector_transform_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    transform: translateX(284px) translateY(316px) translate(256px, 224px) scaleX(1.2) scaleY(1.2) translate(-256px, -224px);
+  }
+  60% {
+    transform: translateX(284px) translateY(316px) translate(256px, 224px) scaleX(1) scaleY(1) translate(-256px, -224px);
+  }
+  100% {
+    transform: translateX(284px) translateY(316px) translate(256px, 224px) scaleX(1) scaleY(1) translate(-256px, -224px);
+  }
+}
+#Vector {
+  transform-origin: 0 0;
+  animation: kf_Vector_transform_0 1s linear infinite;
+}
+</style>
+<g id="Frame_129" clip-path="url(#clip0_564_304)">
+<g id="shadow" filter="url(#filter0_d_564_304)" transform="translate(213 254)">
+<path d="M307.705 70.3509L326.857 96.7804L346.009 70.3509C377.929 26.1741 429.255 0 483.774 0C577.618 0 653.714 76.0964 653.714 169.94V173.26C653.714 316.515 475.092 482.88 381.887 553.997C366.054 565.999 346.647 572 326.857 572C307.067 572 287.532 566.127 271.828 553.997C178.622 482.88 0 316.515 0 173.26V169.94C0 76.0964 76.0964 0 169.94 0C224.459 0 275.786 26.1741 307.705 70.3509Z" id="shadow_bg_0" fill="#FFEF41" style="mix-blend-mode:darken">
+</path>
+</g>
+<path id="Vector" transform="translate(284 316)" d="M241 55.1L256 75.8L271 55.1C296 20.5 336.2 0 378.9 0C452.4 0 512 59.6 512 133.1V135.7C512 247.9 372.1 378.2 299.1 433.9C286.7 443.3 271.5 448 256 448C240.5 448 225.2 443.4 212.9 433.9C139.9 378.2 0 247.9 0 135.7V133.1C0 59.6 59.6 0 133.1 0C175.8 0 216 20.5 241 55.1Z" fill="#FFEF41"/>
+</g>
+<defs>
+<filter id="filter0_d_564_304" x="-40.25" y="-36.9167" width="734.214" height="652.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="24.15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.937255 0 0 0 0 0.254902 0 0 0 0.75 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_564_304"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_564_304" result="shape"/>
+</filter>
+<clipPath id="clip0_564_304">
+<rect width="1080" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>

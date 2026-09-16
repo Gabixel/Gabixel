@@ -154,7 +154,10 @@
   ⁂ㅤ⁂ㅤ⁂<br>
   <h4>
     <!-- https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86 -->
-    <a href="https://github.com/sponsors/Gabixel"><img width="93" height="20" src="https://github.com/user-attachments/assets/222a035e-43cf-496e-940d-f490254e0456"></a>
+    <!--<a href="https://github.com/sponsors/Gabixel"><img width="93" height="20" src="https://github.com/user-attachments/assets/222a035e-43cf-496e-940d-f490254e0456"></a>-->
+    <a href="https://github.com/sponsors/Gabixel" title="Sponsor me on GitHub!">
+      <img src="./assets/heartbeat.svg" alt="heartbeat" width="24"/>
+    </a>
   </h4>
 </div>
 
