@@ -78,10 +78,9 @@
     bottom: 0;
 }
 #my-text div {
-    width: 100%;
+	margin: 0 auto;
     font-size: 6rem;
     font-family: monospace, monospace;
-    text-align: center;
 }
 </style>
 <div>Sponsor me!</div>
