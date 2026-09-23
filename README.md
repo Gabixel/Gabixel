@@ -15,9 +15,11 @@
     <tbody><tr><td align="center">
       <p>
         I was a decent C# developer, but I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets (TypeScript) and frameworks (Svelte, NOT REACT).<br>
-        I'm altro trying to make some WebSocket games in my spare time.<br>
-        I think I also want to learn the <strong>Go</strong> language.
+        I'm altro trying to make some WebSocket games in my spare time.
       </p>
+    </td></tr>
+    <tr><td align="center">
+      <p>I think I also want to learn the <strong>Go</strong> language.</p>
     </td></tr></tbody>
   </table>
   
@@ -46,11 +48,19 @@
     </td></tr></tbody>
   </table>
   
+  <table>
+    <tbody><tr><td align="center">
+      <p>🤖 AI is just a tool, an assistant. Nobody stops you from video-coding, and I also experiment with this technology <b>in private</b>, but don't do that in production… it's bad.</p>
+    </td></tr></tbody>
+  </table>
+  
   <!--<p>Check out my <a href="https://github.com/Gabixel/Soundboard">:electron: Soundboard project</a> (and the <a href="https://github.com/users/Gabixel/projects/2/views/1?pane=info">📜 roadmap</a>)</p>-->
 
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
 
-  <h3>Profiles</h3>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
+  
+  <h3>My profiles</h3>
   <p>
 
   <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
@@ -73,7 +83,7 @@
   [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)ㅤ
   [!["Instant Gaming" profile](https://github.com/user-attachments/assets/8c84fcc6-ff8d-456a-b31f-6c76378124bd)](https://www.instant-gaming.com/it/user/gabixel?igr=gabixel)
   </p>
-  ⁂ㅤ⁂ㅤ⁂<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <table>
     <caption>
         <h3>Archived Projects</h3>
@@ -131,7 +141,7 @@
       </tr>
     </tbody>
   </table>
-  ⁂ㅤ⁂ㅤ⁂<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <h4>
     <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
     <picture title="^_^">
@@ -151,7 +161,7 @@
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
     </sub>
   </p>
-  ⁂ㅤ⁂ㅤ⁂<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <h4>
     <!-- https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86 -->
     <a href="https://github.com/sponsors/Gabixel"><img width="93" height="20" src="https://github.com/user-attachments/assets/222a035e-43cf-496e-940d-f490254e0456"></a>
