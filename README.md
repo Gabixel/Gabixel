@@ -50,7 +50,7 @@
   
   <table>
     <tbody><tr><td align="center">
-      <p>🤖 AI is just a tool, an assistant. Nobody stops you from video-coding, and I also experiment with this technology <b>in private</b>, but don't do that in production… it's bad.</p>
+      <p>🤖 AI is just a tool, an assistant. Nobody stops you from vibe-coding, and I also experiment with this technology <b>in private</b>, but don't do that in production… it's bad.</p>
     </td></tr></tbody>
   </table>
   
