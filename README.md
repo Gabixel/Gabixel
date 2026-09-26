@@ -25,7 +25,7 @@
   
   <table>
     <tbody><tr><td align="center">
-      <p><mark>🌻 Currently working on <strong><a href="https://github.com/Gabixel/Bloom">Bloom</a></strong>, an Android webapp music player with <a href="https://github.com/navidrome/navidrome">Navidrome</a> in mind 🌻</mark></p>
+      <p><mark>🌻 Currently working on <strong><a href="https://github.com/Gabixel/Bloom">Bloom</a></strong>, an Android webapp music player with <a href="https://github.com/navidrome/navidrome">Navidrome</a> in mind 🌻</mark></p>
     </td></tr></tbody>
   </table>
   
