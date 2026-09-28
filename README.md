@@ -116,21 +116,33 @@
                 <tr>
                   <td>
                     <p>
-                        <b>Rabuki To Be…</b><br>
-                        <sup><a href="https://rabuki.vercel.app/menu"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-                        <sup>Online menu for a pub in Gabicce Mare, Italy</sup><br>
-                        <sup>[ARCHIVED]</sup>
+                        <b>🍻 Rabuki To Be… 🍻</b><br>
+                        Online menu for a pub in Gabicce Mare, Italy.<br>
+                        <sub><a href="https://rabuki.vercel.app/menu"><kbd><b>rabuki.vercel.app/menu&nbsp;<sup>&#x2197;</sup></b></kbd></a></sub>
+                        <!--<sup>[ARCHIVED]</sup>-->
                     </p>
                   </td>
                 </tr>
                 <tr>
                   <td>
                     <p>
-                        <b>Pizza Time</b><br>
-                        <sup><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-                        <sup><a href="https://github.com/Gabixel/pizza-time/"><kbd><b>Gabixel/pizza-time&nbsp;<sup>&#x2197;</sup></b></kbd></a></sup><br>
-                        <sup>A high-school project website (class: 5J)</sup><br>
-                        <sup>[ARCHIVED]</sup>
+                        <b>🍕 Pizza Time 🍕</b><br>
+                        A high-school project website.<br>
+                        <sub><a href="https://gabrieldn5j.altervista.org/"><kbd><b>gabrieldn5j.altervista.org&nbsp;<sup>&#x2197;</sup></b></kbd></a></sub><br>
+                        <sub><a href="https://github.com/Gabixel/pizza-time/"><kbd><b>Gabixel/pizza-time&nbsp;<sup>&#x2197;</sup></b></kbd></a></sub>
+                        <!--<sup>[ARCHIVED]</sup>-->
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>
+                        <b>:electron: Soundboard :electron:</b><br>
+                        A soundboard for Windows.
+                        Initially built with Windows Forms, then remade in WPF,<br>
+                        and finally written with Electron.<br>
+                        <sub><a href="https://github.com/Gabixel/Soundboard"><kbd><b>Gabixel/Soundboard&nbsp;<sup>&#x2197;</sup></b></kbd></a></sub>
+                        <!--<sup>[ARCHIVED]</sup>-->
                     </p>
                   </td>
                 </tr>
