@@ -50,7 +50,7 @@
   
   <table>
     <tbody><tr><td align="center">
-      <p>🤖 I don't have a strong opinion on AI, but remember that it's just a tool, an assistant.<br>Nobody stops you from vibe-coding, but don't be lazy. Don't do that in production… it's bad.</p>
+      <p>🤖 While I tend to hate generated code, I don't have a strong opinion about AI.<br>Just remember that it's meant to be a tool, an assistant, and <i>not</i> a replacement of your skills.<br>Nobody can stop you from vibe-coding, but be smart and not lazy.<br>Don't generate code in production… it's bad.</p>
     </td></tr></tbody>
   </table>
   
