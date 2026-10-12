@@ -15,7 +15,7 @@
     <tbody><tr><td align="center">
       <p>
         I was a decent C# developer, but I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets (TypeScript) and frameworks (Svelte, NOT REACT).<br>
-        I'm altro trying to make some WebSocket games in my spare time.
+        I'm also trying to make some WebSocket games in my spare time.
       </p>
     </td></tr>
     <tr><td align="center">
