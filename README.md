@@ -36,17 +36,19 @@
     <tbody><tr><td>
       <ul>
         <li>
-          Sometimes I report bugs / discuss in the <a href="https://github.com/ppy/osu">osu! repository</a>;
+          Sometimes I report bugs and try to help in the <a href="https://github.com/ppy/osu"><b>osu! project</b></a> (see <a href="https://github.com/ppy/osu/issues?q=is%3Aissue+involves%3AGabixel+sort%3Acreated-desc">issues</a> and <a href="https://github.com/ppy/osu/discussions?discussions_q=involves%3AGabixel+sort%3Adate_created">discussions</a> with me involved);
         </li>
         <li>
-          I also help translating the osu! projects (web & client) in Italian on <a href="https://crowdin.com/project/osu-web/activity-stream?lang=24">Crowdin</a>;
+          I also help translating the osu! projects (web & client) in Italian on <a href="https://crowdin.com/project/osu-web/activity-stream?lang=24"><b>Crowdin</b></a>;
         </li>
         <li>
-          I make some corrections/improvements in the (Italian) Wikipedia project.
+          I make some corrections/improvements in the <a href="https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi"><b>(Italian) Wikipedia project</b></a>.
         </li>
       </ul>
     </td></tr></tbody>
   </table>
+
+  ◢◣◥◤◢◣◥◤◢◣<br>
   
   <table>
     <tbody><tr><td align="center">
@@ -58,7 +60,7 @@
 
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
 
-  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
+  ◥◤◢◣◥◤◢◣◥◤<br>
   
   <h3>My profiles</h3>
   <p>
@@ -66,7 +68,7 @@
   <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
   [!["Gravatar" profile](https://github.com/user-attachments/assets/24fcec64-2975-45c1-bb09-f55bf7e131ca)](https://gravatar.com/gabixel)<br>
   [!["Wikipedia" profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
-  [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>
+  <!--[![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>-->
   [![Github Gists](https://github.com/user-attachments/assets/8548afbe-5da9-41fe-8c69-e1f28bcb0771)](https://gist.github.com/Gabixel)ㅤ
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
@@ -83,7 +85,7 @@
   [!["Xbox" profile](https://github.com/user-attachments/assets/6bf51244-4ce1-460d-afdd-40d5e8eeac9b)](https://www.xbox.com/play/user/Gabixel1766)ㅤ
   [!["Instant Gaming" profile](https://github.com/user-attachments/assets/8c84fcc6-ff8d-456a-b31f-6c76378124bd)](https://www.instant-gaming.com/it/user/gabixel?igr=gabixel)
   </p>
-  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <table>
     <caption>
         <h3>Archived Projects</h3>
@@ -153,7 +155,7 @@
       </tr>
     </tbody>
   </table>
-  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <h4>
     <!-- smaller emote: https://github.com/Gabixel/Gabixel/assets/43073074/921c6258-2822-43a2-9565-11d588307d5b -->
     <picture title="^_^">
@@ -173,7 +175,7 @@
         Avatar: <b>Faye</b> from <b><a href="https://freebirdgames.com/games/finding-paradise/">Finding Paradise</a></b>
     </sub>
   </p>
-  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
+  ◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤<br>
   <h4>
     <!-- https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86 -->
     <a href="https://github.com/sponsors/Gabixel"><img width="93" height="20" src="https://github.com/user-attachments/assets/222a035e-43cf-496e-940d-f490254e0456"></a>
