@@ -14,12 +14,13 @@
   <table>
     <tbody><tr><td align="center">
       <p>
-        I was a decent C# developer, but I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets (TypeScript) and frameworks (Svelte, NOT REACT).<br>
-        I'm also trying to make some WebSocket games in my spare time.
+        Former C# and PHP developer, I'm currently more in line (and in love) with web technologies (HTML, CSS, JavaScript) and their supersets (TypeScript) and frameworks (Svelte - NOT REACT).
+        I'm also trying to make some WebSocket games in my spare time.<br>
+        I think I'd like to try learning the <strong>Go</strong> language as well… 🤔
       </p>
     </td></tr>
     <tr><td align="center">
-      <p>I think I also want to learn the <strong>Go</strong> language.</p>
+      <p>I hate Java for no particular reason.</p>
     </td></tr></tbody>
   </table>
   
