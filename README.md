@@ -73,14 +73,14 @@
   <!--<a href="https://www.codewars.com/users/Gabixel" target="_blank"><img src="https://www.codewars.com/users/Gabixel/badges/large" title="Click to visit my Codewars profile!" alt="My Codewars profile"></a>-->
 
   ◥◤◢◣◥◤◢◣◥◤<br>
-  
+
   <h3>My profiles</h3>
   <p>
 
-  <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ-->
-  [!["Gravatar" profile](https://github.com/user-attachments/assets/24fcec64-2975-45c1-bb09-f55bf7e131ca)](https://gravatar.com/gabixel)<br>
-  [!["Wikipedia" profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)ㅤ
-  <!--[![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)<br>-->
+  <!--[!["Stack Overflow" profile](https://github.com/user-attachments/assets/0339b161-8f95-4da8-8ca8-c13392d35274)](https://stackoverflow.com/users/16804863/gabixel)ㅤ
+    [![My Wikipedia contributions (Italian)](https://github.com/user-attachments/assets/7d5f036a-98f3-440c-b26c-02435e1b5d01)](https://it.wikipedia.org/w/index.php?end=&limit=50&namespace=0&start=&tagfilter=&target=Gabixel&title=Speciale%3AContributi)-->
+  [!["Gravatar" profile](https://github.com/user-attachments/assets/24fcec64-2975-45c1-bb09-f55bf7e131ca)](https://gravatar.com/gabixel)ㅤ
+  [!["Wikipedia" profile (Italian)](https://github.com/user-attachments/assets/bf8d088a-8902-49e6-98af-12d519f33c43)](https://it.wikipedia.org/wiki/Utente:Gabixel)<br>
   [![Github Gists](https://github.com/user-attachments/assets/8548afbe-5da9-41fe-8c69-e1f28bcb0771)](https://gist.github.com/Gabixel)ㅤ
   [!["CodePen" profile](https://github.com/user-attachments/assets/7092c10f-d881-477a-a3e7-90cf82064180)](https://codepen.io/gabixel)ㅤ
   [!["Crowdin" profile](https://github.com/user-attachments/assets/c8d8d297-7106-4eb4-b5ef-d7f517dd8086)](https://crowdin.com/profile/gabixel)ㅤ
